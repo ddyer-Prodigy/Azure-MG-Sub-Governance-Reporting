@@ -1,0 +1,1 @@
+& "..\AzGovVizParallel.ps1" -ManagementGroupId '95933331-9c40-4ebf-9199-cd4c72f03a84' -SubscriptionId4AzContext '785bf68a-c2db-4efc-9b39-fa9343552022' -OutputPath 'C:\_Code\_Working\UCANR-AzGovViz' -DoAzureConsumption -DoPSRule -NoPIMEligibility
